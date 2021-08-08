@@ -7,7 +7,7 @@ export default class Footer extends Component {
 	return (
 	    <footer className="footer">
 		<div className="right credit">
-		    Made by <a href="http://rayalez.com">Ray Alez</a>
+		    Made by <a href="http://rayalez.com">ITHunter</a>
 		    <a href="https://github.com/raymestalez/django-react-blog">
 			<FontAwesome name='github' />
 		    </a>

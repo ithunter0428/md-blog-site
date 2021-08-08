@@ -1,7 +1,7 @@
 FROM ubuntu:latest
 
 # Set the file maintainer (your name - the file's author)
-MAINTAINER Ray Alez
+MAINTAINER ITHunter
 
 # Install Nginx.	
 RUN apt-get update && apt-get install -y nginx

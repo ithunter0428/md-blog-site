@@ -1,6 +1,6 @@
 FROM ubuntu:latest
 # Set the file maintainer (your name - the file's author)
-MAINTAINER Ray Alez
+MAINTAINER ITHunter
 
 ENV HOMEDIR=/home
 ENV PROJECTDIR=/home/blog
